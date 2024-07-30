@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "561532684089",
+    "project_id": "cross-fit-fee5a",
+    "storage_bucket": "cross-fit-fee5a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561532684089:android:13f152f6ee72a3a1668ae8",
+        "android_client_info": {
+          "package_name": "com.example.cross_fit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "561532684089-s61bjgididnsc0dgib8l0pusio1hm67d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVLufTzYo5v3cEeve-2cZ1wBV23t-L6Yw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "561532684089-s61bjgididnsc0dgib8l0pusio1hm67d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

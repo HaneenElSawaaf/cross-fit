@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>561532684089-qldgi9flusmd55ofrgfslq3iq7o9760j.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.561532684089-qldgi9flusmd55ofrgfslq3iq7o9760j</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDmoV1RkonY10SGrFNkE2vXXIhcODpOyHc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>561532684089</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.crossFit</string>
+	<key>PROJECT_ID</key>
+	<string>cross-fit-fee5a</string>
+	<key>STORAGE_BUCKET</key>
+	<string>cross-fit-fee5a.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:561532684089:ios:3a3b694488e2aa60668ae8</string>
+</dict>
+</plist>
